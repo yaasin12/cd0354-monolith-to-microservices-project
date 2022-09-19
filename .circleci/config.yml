@@ -38,7 +38,7 @@ jobs:
 
             echo " ------- login in to hub--------"
 
-            docker login -u draven12 -p mastery12
+            docker login -u draven12 -p $DOCKERPASS
             echo "-------------- Pushing images to dockerhub-------"
 
             docker push draven12/udagram-api-feed:v3
