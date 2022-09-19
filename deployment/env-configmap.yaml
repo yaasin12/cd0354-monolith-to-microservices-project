@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: env-config
+data:
+  POSTGRES_USERNAME: esdeath
+  POSTGRES_PASSWORD: draven12
+  POSTGRES_HOST: udadb.c6spzunzohjf.us-east-1.rds.amazonaws.com
+  POSTGRES_DB: postgres
+  AWS_BUCKET: udagram12
+  AWS_REGION: us-east-1AWS_PROFILE=default
+  JWT_SECRET: bonjour
+  URL: http://localhost:8100
+
