@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/yaasin12/cd0354-monolith-to-microservices-project/tree/main.svg?style=svg)](https://app.circleci.com/pipelines/github/yaasin12/cd0354-monolith-to-microservices-project?branch=main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/yaasin12/monolith-to-microservices-project/tree/main.svg?style=svg)](https://app.circleci.com/pipelines/github/yaasin12/monolith-to-microservices-project?branch=main)
 
 # Udagram Image Filtering Application
 
